@@ -24,7 +24,9 @@ Then visit http://localhost:8000.
 
 Once GitHub Pages is enabled for this repository, the site will be available at:
 
-https://newsfeed.github.io/
+https://aaronv6.github.io/newsfeed.github.io/
+
+If you want the shorter custom domain https://newsfeed.github.io/, that requires a custom domain setup in GitHub Pages settings or a repo owned by the `newsfeed` account.
 
 ## Notes
 
